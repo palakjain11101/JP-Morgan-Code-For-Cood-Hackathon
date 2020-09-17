@@ -3,4 +3,4 @@
 
 
 This web application was built within a team to design a web-application for a charity specialising in Autism.
-This project was awarded for “The most well-planned and creative design solution” at the evnt.
+This project was awarded for “The most well-planned and creative design solution” at the event.
